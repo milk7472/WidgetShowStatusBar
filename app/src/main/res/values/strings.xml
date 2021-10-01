@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">顯示通知列</string>
+
+    <string name="main_show_status_bar">請按我測試功能</string>
+
+    <string name="action_app_rate">請幫我評分</string>
+    <string name="action_app_info">取得其他應用程式</string>
+
+    <string name="appwidget_title">開啟狀態列</string>
+
+    <string name="app_description">"
+本程式提供使用者可以新增一小工具於畫面上，方便使用者可以單手去呼叫出下拉通知列表。
+
+如果安裝後無法在小工具列表中看到[顯示通知列]，請重新開機即可。
+
+市集中還有更多應用程式可以使用，歡迎前往下載。"
+    </string>
+</resources>

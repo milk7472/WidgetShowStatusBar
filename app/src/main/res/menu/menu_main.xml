@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_app_rate"
+        android:orderInCategory="213"
+        android:title="@string/action_app_rate"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_app_info"
+        android:orderInCategory="333"
+        android:title="@string/action_app_info"
+        app:showAsAction="never" />
+</menu>
